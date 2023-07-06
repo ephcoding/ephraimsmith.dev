@@ -3,7 +3,7 @@ const siteMetadata = {
   author: 'Ephraim Smith',
   headerTitle: 'ephraimsmith.dev',
   description:
-    'Ephraim Smith&apos;s personal site documenting his experience building software products.',
+    'Ephraim Smiths personal site documenting his experience building software products.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://ephraimsmith.dev',
@@ -31,7 +31,8 @@ const siteMetadata = {
   newsletter: {
     // supports mailchimp, buttondown, convertkit, klaviyo, revue, emailoctopus
     // Please add your .env file and modify it according to your selection
-    provider: 'buttondown',
+    // provider: 'buttondown',
+    provider: '',
   },
   comment: {
     // If you want to use a commenting system other than giscus you have to add it to the
