@@ -2,11 +2,11 @@
 name: Ephraim Smith
 avatar: /static/images/avatar.png
 occupation: Builder
-company: MODEVX, LLC.
-email: ephraimjsmith@gmail.com
+company: null
+email: ephraim@ephraimsmith.dev
 github: https://github.com/ephcoding
 instagram: https://www.instagram.com/ephraimsmithdev
-linkedin: https://www.linkedin.com/in/ephraimsmithdev/
+linkedin: https://www.linkedin.com/in/ephraimsmithdev
 twitter: https://twitter.com/ephraimsmithdev
 ---
 
